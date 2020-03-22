@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In Challenge 1 of this lab we will walk you through how to prepare HTML data for NLP analysis. In Challenge 2 we will walk you through how to perform sentiment analysis on Tweets using NLTK.
+ In Challenge 1 of this lab we will walk you through how to prepare HTML data for NLP analysis. In Challenge 2 we will walk you through how to perform sentiment analysis on Tweets using NLTK.
 
 ## Getting Started
 
