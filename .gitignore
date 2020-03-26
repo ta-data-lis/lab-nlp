@@ -10,6 +10,9 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# ignore csv's
+*.csv
+
 ### macOS ###
 # General
 .DS_Store
